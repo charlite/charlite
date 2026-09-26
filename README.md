@@ -38,7 +38,7 @@
 <h2 align="center"><b>💫 About Me</b></h2>
 
 <div>
-<p>Hi, I'm <strong>Charlie Rios</strong> — <strong>Senior Full-Stack Software Engineer</strong> based in Amsterdam.</p>
+<p>Hi, I'm <strong>Charlie Rios</strong> — <strong>Software Engineer</strong> with over <strong>9 years of experience</strong>, based in <strong>Amsterdam</strong>.</p>
 
 <p>
 <a href="https://linkedin.com/in/charlie-rios"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>

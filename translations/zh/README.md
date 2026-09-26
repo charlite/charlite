@@ -38,16 +38,16 @@
 <h2 align="center"><b>💫 关于我</b></h2>
 
 <div>
-<p>你好，我是 <strong>Charlie Rios</strong> — 驻阿姆斯特丹的 <strong>Senior Full-Stack Software Engineer</strong>。</p>
+<p>你好，我是 <strong>Charlie Rios</strong> — 拥有超过 <strong>9 年经验</strong>的 <strong>软件工程师</strong>，现居 <strong>阿姆斯特丹</strong>。</p>
 
 <p>
 <a href="https://linkedin.com/in/charlie-rios"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <img src="https://komarev.com/ghpvc/?username=xarlizard&label=%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E6%B5%8F%E8%A7%88%E9%87%8F&color=0e75b6&style=flat" alt="个人资料浏览量"/>
 </p>
 
-<p>我端到端构建产品：从 UI 架构和 design systems 到 API、基础设施和生产部署。我曾以 <strong>Frontend Lead</strong> 身份带领前端团队，以 <strong>Product Engineer</strong> 负责功能交付，并在 web、mobile 和 cloud 上发布产品。如今我正成长为 <strong>native AI developer</strong>，构建面向真实用户的智能系统。</p>
+<p>这些年我专注于构建和维护现代化的 <strong>Web 与移动</strong> 应用，覆盖 <strong>金融科技、电商与 SaaS</strong>。熟悉 <strong>React (v19)</strong>、<strong>Next.js</strong>、<strong>Node.js</strong>、<strong>Python</strong>、<strong>Java</strong>、<strong>SwiftUI</strong> 与 RESTful API，并在 <strong>服务端渲染</strong>、<strong>WebSockets</strong> 与 <strong>无障碍</strong> 最佳实践方面经验丰富。</p>
 
-<p><strong>我能带来的：</strong> 敏锐的产品感 · 可扩展的 React/TypeScript frontends · full-stack ownership · AI-native tooling</p>
+<p><strong>我能带来的：</strong> 扎实的技术深度 · 面向业务的解决问题能力 · 整洁代码与 UI/UX · AI-native 产品工程</p>
 </div>
 
 <br/><br/>

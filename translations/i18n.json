@@ -1,7 +1,7 @@
 {
   "en": {
     "about_title": "💫 About Me",
-    "about_intro": "Hi, I'm <strong>Charlie Rios</strong> — <strong>Senior Full-Stack Software Engineer</strong> based in Amsterdam.",
+    "about_intro": "Hi, I'm <strong>Charlie Rios</strong> — <strong>Software Engineer</strong> with over <strong>9 years of experience</strong>, based in <strong>Amsterdam</strong>.",
     "profile_views_alt": "Profile Views",
     "about_body": "I build products end-to-end: from UI architecture and design systems to APIs, infra, and production deployments. I've led frontend teams as <strong>Frontend Lead</strong>, owned features as a <strong>Product Engineer</strong>, and shipped across web, mobile, and cloud. Nowadays I'm growing into a <strong>native AI developer</strong>, building intelligent systems that reach real users.",
     "about_brings_label": "What I bring:",
@@ -40,7 +40,7 @@
   },
   "es": {
     "about_title": "💫 Sobre mí",
-    "about_intro": "Hola, soy <strong>Charlie Rios</strong> — <strong>Ingeniero de Software Full-Stack Senior</strong> con base en Ámsterdam.",
+    "about_intro": "Hola, soy <strong>Charlie Rios</strong> — <strong>Ingeniero de Software</strong> con más de <strong>9 años de experiencia</strong>, con base en <strong>Ámsterdam</strong>.",
     "profile_views_alt": "Visitas al perfil",
     "about_body": "Construyo productos de punta a punta: desde arquitectura de UI y design systems hasta APIs, infraestructura y despliegues en producción. He liderado equipos frontend como <strong>Frontend Lead</strong>, he sido <strong>Product Engineer</strong> y he publicado en web, móvil y cloud. Hoy evoluciono como <strong>desarrollador nativo de IA</strong>, creando sistemas inteligentes que llegan a usuarios reales.",
     "about_brings_label": "Lo que aporto:",
@@ -79,7 +79,7 @@
   },
   "nl": {
     "about_title": "💫 Over mij",
-    "about_intro": "Hoi, ik ben <strong>Charlie Rios</strong> — <strong>Senior Full-Stack Software Engineer</strong> gevestigd in Amsterdam.",
+    "about_intro": "Hoi, ik ben <strong>Charlie Rios</strong> — <strong>Software Engineer</strong> met meer dan <strong>9 jaar ervaring</strong>, gevestigd in <strong>Amsterdam</strong>.",
     "profile_views_alt": "Profielweergaven",
     "about_body": "Ik bouw producten end-to-end: van UI-architectuur en design systems tot API's, infra en productie-deployments. Ik heb frontendteams geleid als <strong>Frontend Lead</strong>, features owned als <strong>Product Engineer</strong>, en geleverd op web, mobiel en cloud. Tegenwoordig groei ik uit tot een <strong>native AI developer</strong> die intelligente systemen bouwt voor echte gebruikers.",
     "about_brings_label": "Wat ik meebreng:",
@@ -118,7 +118,7 @@
   },
   "ru": {
     "about_title": "💫 Обо мне",
-    "about_intro": "Привет, я <strong>Charlie Rios</strong> — <strong>Senior Full-Stack Software Engineer</strong> из Амстердама.",
+    "about_intro": "Привет, я <strong>Charlie Rios</strong> — <strong>Software Engineer</strong> с более чем <strong>9 годами опыта</strong>, живу в <strong>Амстердаме</strong>.",
     "profile_views_alt": "Просмотры профиля",
     "about_body": "Создаю продукты end-to-end: от UI-архитектуры и design systems до API, инфраструктуры и продакшен-деплоев. Руководил frontend-командами как <strong>Frontend Lead</strong>, отвечал за фичи как <strong>Product Engineer</strong> и выпускал решения для web, mobile и cloud. Сейчас развиваюсь как <strong>native AI developer</strong>, создавая интеллектуальные системы для реальных пользователей.",
     "about_brings_label": "Что я привношу:",
@@ -157,7 +157,7 @@
   },
   "zh": {
     "about_title": "💫 关于我",
-    "about_intro": "你好，我是 <strong>Charlie Rios</strong> — 驻阿姆斯特丹的 <strong>Senior Full-Stack Software Engineer</strong>。",
+    "about_intro": "你好，我是 <strong>Charlie Rios</strong> — 拥有超过 <strong>9 年经验</strong>的 <strong>软件工程师</strong>，现居 <strong>阿姆斯特丹</strong>。",
     "profile_views_alt": "个人资料浏览量",
     "about_body": "我端到端构建产品：从 UI 架构和 design systems 到 API、基础设施和生产部署。我曾以 <strong>Frontend Lead</strong> 身份带领前端团队，以 <strong>Product Engineer</strong> 负责功能交付，并在 web、mobile 和 cloud 上发布产品。如今我正成长为 <strong>native AI developer</strong>，构建面向真实用户的智能系统。",
     "about_brings_label": "我能带来的：",
@@ -196,7 +196,7 @@
   },
   "ja": {
     "about_title": "💫 自己紹介",
-    "about_intro": "こんにちは、<strong>Charlie Rios</strong> です — アムステルダム在住の <strong>Senior Full-Stack Software Engineer</strong> です。",
+    "about_intro": "こんにちは、<strong>Charlie Rios</strong> です — <strong>9 年以上の経験</strong>を持つ <strong>ソフトウェアエンジニア</strong>で、<strong>アムステルダム</strong>在住です。",
     "profile_views_alt": "プロフィール閲覧数",
     "about_body": "UI アーキテクチャや design systems から API、インフラ、本番デプロイまで、プロダクトを end-to-end で構築しています。<strong>Frontend Lead</strong> としてフロントエンドチームを率い、<strong>Product Engineer</strong> として機能を担当し、web、mobile、cloud 向けにリリースしてきました。現在は <strong>native AI developer</strong> として成長中で、実際のユーザーに届くインテリジェントなシステムを構築しています。",
     "about_brings_label": "提供できること：",
@@ -236,7 +236,7 @@
   "ar": {
     "dir": "rtl",
     "about_title": "💫 نبذة عني",
-    "about_intro": "مرحبًا، أنا <strong>Charlie Rios</strong> — <strong>Senior Full-Stack Software Engineer</strong> مقيم في أمستردام.",
+    "about_intro": "مرحبًا، أنا <strong>Charlie Rios</strong> — <strong>مهندس برمجيات</strong> بخبرة تزيد على <strong>9 سنوات</strong>، مقيم في <strong>أمستردام</strong>.",
     "profile_views_alt": "مشاهدات الملف الشخصي",
     "about_body": "أبني المنتجات end-to-end: من UI architecture و design systems إلى APIs والبنية التحتية ونشر الإنتاج. قدت فرق frontend كـ <strong>Frontend Lead</strong>، وامتلكت الميزات كـ <strong>Product Engineer</strong>، وأطلقت منتجات على web و mobile و cloud. اليوم أتطور كـ <strong>native AI developer</strong>، أبني أنظمة ذكية تصل إلى مستخدمين حقيقيين.",
     "about_brings_label": "ما أقدمه:",
@@ -275,7 +275,7 @@
   },
   "it": {
     "about_title": "💫 Chi sono",
-    "about_intro": "Ciao, sono <strong>Charlie Rios</strong> — <strong>Senior Full-Stack Software Engineer</strong> con base ad Amsterdam.",
+    "about_intro": "Ciao, sono <strong>Charlie Rios</strong> — <strong>Software Engineer</strong> con oltre <strong>9 anni di esperienza</strong>, con base ad <strong>Amsterdam</strong>.",
     "profile_views_alt": "Visualizzazioni del profilo",
     "about_body": "Costruisco prodotti end-to-end: dall'architettura UI e design systems ad API, infra e deploy in produzione. Ho guidato team frontend come <strong>Frontend Lead</strong>, gestito feature come <strong>Product Engineer</strong> e rilasciato su web, mobile e cloud. Oggi cresco come <strong>native AI developer</strong>, costruendo sistemi intelligenti che raggiungono utenti reali.",
     "about_brings_label": "Cosa porto:",
@@ -314,7 +314,7 @@
   },
   "fr": {
     "about_title": "💫 À propos de moi",
-    "about_intro": "Bonjour, je suis <strong>Charlie Rios</strong> — <strong>Senior Full-Stack Software Engineer</strong> basé à Amsterdam.",
+    "about_intro": "Bonjour, je suis <strong>Charlie Rios</strong> — <strong>Software Engineer</strong> avec plus de <strong>9 ans d'expérience</strong>, basé à <strong>Amsterdam</strong>.",
     "profile_views_alt": "Vues du profil",
     "about_body": "Je construis des produits de bout en bout : de l'architecture UI et des design systems aux API, à l'infra et aux déploiements en production. J'ai dirigé des équipes frontend en tant que <strong>Frontend Lead</strong>, possédé des fonctionnalités en tant que <strong>Product Engineer</strong>, et livré sur web, mobile et cloud. Aujourd'hui, je deviens <strong>native AI developer</strong>, en créant des systèmes intelligents qui touchent de vrais utilisateurs.",
     "about_brings_label": "Ce que j'apporte :",
@@ -353,7 +353,7 @@
   },
   "ca": {
     "about_title": "💫 Sobre mi",
-    "about_intro": "Hola, sóc <strong>Charlie Rios</strong> — <strong>Senior Full-Stack Software Engineer</strong> amb base a Amsterdam.",
+    "about_intro": "Hola, sóc <strong>Charlie Rios</strong> — <strong>Enginyer de Software</strong> amb més de <strong>9 anys d'experiència</strong>, amb base a <strong>Amsterdam</strong>.",
     "profile_views_alt": "Visualitzacions del perfil",
     "about_body": "Construeixo productes de punta a punta: des de l'arquitectura UI i design systems fins a APIs, infra i desplegaments en producció. He liderat equips frontend com a <strong>Frontend Lead</strong>, he estat <strong>Product Engineer</strong> i he publicat a web, mòbil i cloud. Avui evoluciono com a <strong>native AI developer</strong>, creant sistemes intel·ligents que arriben a usuaris reals.",
     "about_brings_label": "El que aporto:",
@@ -392,7 +392,7 @@
   },
   "de": {
     "about_title": "💫 Über mich",
-    "about_intro": "Hallo, ich bin <strong>Charlie Rios</strong> — <strong>Senior Full-Stack Software Engineer</strong> mit Sitz in Amsterdam.",
+    "about_intro": "Hallo, ich bin <strong>Charlie Rios</strong> — <strong>Software Engineer</strong> mit über <strong>9 Jahren Erfahrung</strong>, ansässig in <strong>Amsterdam</strong>.",
     "profile_views_alt": "Profilaufrufe",
     "about_body": "Ich baue Produkte end-to-end: von UI-Architektur und Design Systems über APIs und Infra bis zu Production Deployments. Ich habe Frontend-Teams als <strong>Frontend Lead</strong> geleitet, Features als <strong>Product Engineer</strong> verantwortet und für Web, Mobile und Cloud ausgeliefert. Heute wachse ich zum <strong>native AI developer</strong> heran und baue intelligente Systeme für echte Nutzer.",
     "about_brings_label": "Was ich mitbringe:",
@@ -431,7 +431,7 @@
   },
   "pt": {
     "about_title": "💫 Sobre mim",
-    "about_intro": "Olá, sou <strong>Charlie Rios</strong> — <strong>Senior Full-Stack Software Engineer</strong> baseado em Amesterdão.",
+    "about_intro": "Olá, sou <strong>Charlie Rios</strong> — <strong>Engenheiro de Software</strong> com mais de <strong>9 anos de experiência</strong>, baseado em <strong>Amesterdão</strong>.",
     "profile_views_alt": "Visualizações do perfil",
     "about_body": "Construo produtos de ponta a ponta: de arquitetura UI e design systems a APIs, infra e deploys em produção. Liderei equipas frontend como <strong>Frontend Lead</strong>, fui <strong>Product Engineer</strong> e publiquei em web, mobile e cloud. Hoje evoluo como <strong>native AI developer</strong>, criando sistemas inteligentes que chegam a utilizadores reais.",
     "about_brings_label": "O que trago:",
@@ -470,7 +470,7 @@
   },
   "hi": {
     "about_title": "💫 मेरे बारे में",
-    "about_intro": "नमस्ते, मैं <strong>Charlie Rios</strong> हूँ — एम्स्टर्डम में स्थित <strong>Senior Full-Stack Software Engineer</strong>।",
+    "about_intro": "नमस्ते, मैं <strong>Charlie Rios</strong> हूँ — <strong>9 से अधिक वर्षों के अनुभव</strong> वाला <strong>Software Engineer</strong>, <strong>Amsterdam</strong> में स्थित।",
     "profile_views_alt": "प्रोफ़ाइल दृश्य",
     "about_body": "मैं end-to-end उत्पाद बनाता हूँ: UI architecture और design systems से लेकर APIs, infra और production deployments तक। मैंने <strong>Frontend Lead</strong> के रूप में frontend टीमों का नेतृत्व किया, <strong>Product Engineer</strong> के रूप में features का ownership लिया, और web, mobile और cloud पर ship किया। आज मैं <strong>native AI developer</strong> के रूप में बढ़ रहा हूँ, ऐसे intelligent systems बना रहा हूँ जो real users तक पहुँचते हैं।",
     "about_brings_label": "मैं क्या लाता हूँ:",
@@ -509,7 +509,7 @@
   },
   "id": {
     "about_title": "💫 Tentang Saya",
-    "about_intro": "Halo, saya <strong>Charlie Rios</strong> — <strong>Senior Full-Stack Software Engineer</strong> yang berbasis di Amsterdam.",
+    "about_intro": "Halo, saya <strong>Charlie Rios</strong> — <strong>Software Engineer</strong> dengan lebih dari <strong>9 tahun pengalaman</strong>, berbasis di <strong>Amsterdam</strong>.",
     "profile_views_alt": "Tayangan profil",
     "about_body": "Saya membangun produk end-to-end: dari arsitektur UI dan design systems hingga API, infra, dan deployment produksi. Saya pernah memimpin tim frontend sebagai <strong>Frontend Lead</strong>, memiliki fitur sebagai <strong>Product Engineer</strong>, dan merilis di web, mobile, dan cloud. Kini saya berkembang sebagai <strong>native AI developer</strong>, membangun sistem cerdas yang menjangkau pengguna nyata.",
     "about_brings_label": "Yang saya bawa:",
@@ -548,7 +548,7 @@
   },
   "ko": {
     "about_title": "💫 소개",
-    "about_intro": "안녕하세요, 저는 <strong>Charlie Rios</strong>입니다 — 암스테르담에 거주하는 <strong>시니어 풀스택 소프트웨어 엔지니어</strong>입니다.",
+    "about_intro": "안녕하세요, 저는 <strong>Charlie Rios</strong>입니다 — <strong>9년 이상의 경력</strong>을 가진 <strong>소프트웨어 엔지니어</strong>로, <strong>암스테르담</strong>에 거주합니다.",
     "profile_views_alt": "프로필 조회수",
     "about_body": "UI 아키텍처와 디자인 시스템부터 API, 인프라, 프로덕션 배포까지 엔드투엔드로 제품을 만듭니다. <strong>Frontend Lead</strong>로 프론트엔드 팀을 이끌었고, <strong>Product Engineer</strong>로 기능을 소유했으며, 웹·모바일·클라우드 전반에 걸쳐 출시했습니다. 지금은 <strong>네이티브 AI 개발자</strong>로 성장하며 실제 사용자에게 도달하는 지능형 시스템을 구축하고 있습니다.",
     "about_brings_label": "제가 제공하는 것:",
@@ -588,7 +588,7 @@
   "he": {
     "dir": "rtl",
     "about_title": "💫 אודותי",
-    "about_intro": "שלום, אני <strong>Charlie Rios</strong> — <strong>מהנדס תוכנה Full-Stack בכיר</strong> המתגורר באמסטרדם.",
+    "about_intro": "שלום, אני <strong>Charlie Rios</strong> — <strong>מהנדס תוכנה</strong> עם יותר מ-<strong>9 שנות ניסיון</strong>, מתגורר ב<strong>אמסטרדם</strong>.",
     "profile_views_alt": "צפיות בפרופיל",
     "about_body": "אני בונה מוצרים מקצה לקצה: מארכיטקטורת UI ומערכות עיצוב ועד API, תשתית ופריסות בפרודקשן. הובלתי צוותי frontend כ<strong>Frontend Lead</strong>, בעלתי פיצ'רים כ<strong>Product Engineer</strong>, ושחררתי ב-web, mobile ו-cloud. כיום אני מתפתח כ<strong>מפתח AI native</strong>, ובונה מערכות חכמות שמגיעות למשתמשים אמיתיים.",
     "about_brings_label": "מה שאני מביא:",
@@ -627,7 +627,7 @@
   },
   "tr": {
     "about_title": "💫 Hakkımda",
-    "about_intro": "Merhaba, ben <strong>Charlie Rios</strong> — Amsterdam'da yaşayan <strong>Kıdemli Full-Stack Yazılım Mühendisi</strong>.",
+    "about_intro": "Merhaba, ben <strong>Charlie Rios</strong> — <strong>9 yılı aşkın deneyime</strong> sahip bir <strong>Yazılım Mühendisi</strong>, <strong>Amsterdam</strong>'da yaşıyorum.",
     "profile_views_alt": "Profil görüntülemeleri",
     "about_body": "Ürünleri uçtan uca inşa ediyorum: UI mimarisi ve tasarım sistemlerinden API'lere, altyapıya ve production dağıtımlarına kadar. <strong>Frontend Lead</strong> olarak frontend ekiplerine liderlik ettim, <strong>Product Engineer</strong> olarak özelliklere sahip çıktım ve web, mobil ve bulutta yayınladım. Bugünlerde gerçek kullanıcılara ulaşan akıllı sistemler kuran bir <strong>native AI geliştiricisi</strong> olarak büyüyorum.",
     "about_brings_label": "Getirdiklerim:",

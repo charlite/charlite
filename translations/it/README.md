@@ -38,16 +38,16 @@
 <h2 align="center"><b>💫 Chi sono</b></h2>
 
 <div>
-<p>Ciao, sono <strong>Charlie Rios</strong> — <strong>Senior Full-Stack Software Engineer</strong> con base ad Amsterdam.</p>
+<p>Ciao, sono <strong>Charlie Rios</strong> — <strong>Software Engineer</strong> con oltre <strong>9 anni di esperienza</strong>, con base ad <strong>Amsterdam</strong>.</p>
 
 <p>
 <a href="https://linkedin.com/in/charlie-rios"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <img src="https://komarev.com/ghpvc/?username=xarlizard&label=Visualizzazioni%20del%20profilo&color=0e75b6&style=flat" alt="Visualizzazioni del profilo"/>
 </p>
 
-<p>Costruisco prodotti end-to-end: dall'architettura UI e design systems ad API, infra e deploy in produzione. Ho guidato team frontend come <strong>Frontend Lead</strong>, gestito feature come <strong>Product Engineer</strong> e rilasciato su web, mobile e cloud. Oggi cresco come <strong>native AI developer</strong>, costruendo sistemi intelligenti che raggiungono utenti reali.</p>
+<p>Ho dedicato questo tempo a costruire e mantenere moderne applicazioni <strong>web e mobile</strong> in <strong>fintech, e-commerce e SaaS</strong>. Competente in <strong>React (v19)</strong>, <strong>Next.js</strong>, <strong>Node.js</strong>, <strong>Python</strong>, <strong>Java</strong>, <strong>SwiftUI</strong> e API REST, con solida esperienza in <strong>server-side rendering</strong>, <strong>WebSockets</strong> e best practice di <strong>accessibilità</strong>.</p>
 
-<p><strong>Cosa porto:</strong> forte senso del prodotto · frontend React/TypeScript scalabili · full-stack ownership · AI-native tooling</p>
+<p><strong>Cosa porto:</strong> profondità tecnica hands-on · problem solving orientato al business · clean code e UI/UX · product engineering AI-native</p>
 </div>
 
 <br/><br/>

@@ -38,16 +38,16 @@
 <h2 align="center"><b>💫 Tentang Saya</b></h2>
 
 <div>
-<p>Halo, saya <strong>Charlie Rios</strong> — <strong>Senior Full-Stack Software Engineer</strong> yang berbasis di Amsterdam.</p>
+<p>Halo, saya <strong>Charlie Rios</strong> — <strong>Software Engineer</strong> dengan lebih dari <strong>9 tahun pengalaman</strong>, berbasis di <strong>Amsterdam</strong>.</p>
 
 <p>
 <a href="https://linkedin.com/in/charlie-rios"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <img src="https://komarev.com/ghpvc/?username=xarlizard&label=Tayangan%20profil&color=0e75b6&style=flat" alt="Tayangan profil"/>
 </p>
 
-<p>Saya membangun produk end-to-end: dari arsitektur UI dan design systems hingga API, infra, dan deployment produksi. Saya pernah memimpin tim frontend sebagai <strong>Frontend Lead</strong>, memiliki fitur sebagai <strong>Product Engineer</strong>, dan merilis di web, mobile, dan cloud. Kini saya berkembang sebagai <strong>native AI developer</strong>, membangun sistem cerdas yang menjangkau pengguna nyata.</p>
+<p>Saya menghabiskan waktu itu membangun dan memelihara aplikasi <strong>web dan mobile</strong> modern di <strong>fintech, e-commerce, dan SaaS</strong>. Mahir <strong>React (v19)</strong>, <strong>Next.js</strong>, <strong>Node.js</strong>, <strong>Python</strong>, <strong>Java</strong>, <strong>SwiftUI</strong>, dan RESTful API, dengan keahlian kuat dalam <strong>server-side rendering</strong>, <strong>WebSockets</strong>, dan praktik terbaik <strong>aksesibilitas</strong>.</p>
 
-<p><strong>Yang saya bawa:</strong> sense produk yang kuat · frontend React/TypeScript yang scalable · full-stack ownership · AI-native tooling</p>
+<p><strong>Yang saya bawa:</strong> kedalaman teknis hands-on · pemecahan masalah berorientasi bisnis · clean code & UI/UX · product engineering AI-native</p>
 </div>
 
 <br/><br/>

@@ -38,16 +38,16 @@
 <h2 align="center"><b>💫 نبذة عني</b></h2>
 
 <div dir="rtl">
-<p>مرحبًا، أنا <strong>Charlie Rios</strong> — <strong>Senior Full-Stack Software Engineer</strong> مقيم في أمستردام.</p>
+<p>مرحبًا، أنا <strong>Charlie Rios</strong> — <strong>مهندس برمجيات</strong> بخبرة تزيد على <strong>9 سنوات</strong>، مقيم في <strong>أمستردام</strong>.</p>
 
 <p>
 <a href="https://linkedin.com/in/charlie-rios"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <img src="https://komarev.com/ghpvc/?username=xarlizard&label=%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A7%D8%AA%20%D8%A7%D9%84%D9%85%D9%84%D9%81%20%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A&color=0e75b6&style=flat" alt="مشاهدات الملف الشخصي"/>
 </p>
 
-<p>أبني المنتجات end-to-end: من UI architecture و design systems إلى APIs والبنية التحتية ونشر الإنتاج. قدت فرق frontend كـ <strong>Frontend Lead</strong>، وامتلكت الميزات كـ <strong>Product Engineer</strong>، وأطلقت منتجات على web و mobile و cloud. اليوم أتطور كـ <strong>native AI developer</strong>، أبني أنظمة ذكية تصل إلى مستخدمين حقيقيين.</p>
+<p>قضيت هذه السنوات في بناء وصيانة تطبيقات <strong>ويب وموبايل</strong> حديثة في <strong>التقنية المالية والتجارة الإلكترونية وSaaS</strong>. أتقن <strong>React (v19)</strong> و<strong>Next.js</strong> و<strong>Node.js</strong> و<strong>Python</strong> و<strong>Java</strong> و<strong>SwiftUI</strong> وRESTful APIs، مع خبرة قوية في <strong>server-side rendering</strong> و<strong>WebSockets</strong> وأفضل ممارسات <strong>إمكانية الوصول</strong>.</p>
 
-<p><strong>ما أقدمه:</strong> حس قوي بالمنتج · frontends React/TypeScript قابلة للتوسع · full-stack ownership · AI-native tooling</p>
+<p><strong>ما أقدمه:</strong> عمق تقني عملي · حل مشكلات موجه للأعمال · كود نظيف وUI/UX · هندسة منتجات AI-native</p>
 </div>
 
 <br/><br/>

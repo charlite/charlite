@@ -38,16 +38,16 @@
 <h2 align="center"><b>💫 मेरे बारे में</b></h2>
 
 <div>
-<p>नमस्ते, मैं <strong>Charlie Rios</strong> हूँ — एम्स्टर्डम में स्थित <strong>Senior Full-Stack Software Engineer</strong>।</p>
+<p>नमस्ते, मैं <strong>Charlie Rios</strong> हूँ — <strong>9 से अधिक वर्षों के अनुभव</strong> वाला <strong>Software Engineer</strong>, <strong>Amsterdam</strong> में स्थित।</p>
 
 <p>
 <a href="https://linkedin.com/in/charlie-rios"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <img src="https://komarev.com/ghpvc/?username=xarlizard&label=%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%AB%E0%A4%BC%E0%A4%BE%E0%A4%87%E0%A4%B2%20%E0%A4%A6%E0%A5%83%E0%A4%B6%E0%A5%8D%E0%A4%AF&color=0e75b6&style=flat" alt="प्रोफ़ाइल दृश्य"/>
 </p>
 
-<p>मैं end-to-end उत्पाद बनाता हूँ: UI architecture और design systems से लेकर APIs, infra और production deployments तक। मैंने <strong>Frontend Lead</strong> के रूप में frontend टीमों का नेतृत्व किया, <strong>Product Engineer</strong> के रूप में features का ownership लिया, और web, mobile और cloud पर ship किया। आज मैं <strong>native AI developer</strong> के रूप में बढ़ रहा हूँ, ऐसे intelligent systems बना रहा हूँ जो real users तक पहुँचते हैं।</p>
+<p>इन वर्षों में मैंने <strong>fintech, e-commerce और SaaS</strong> में आधुनिक <strong>web और mobile</strong> ऐप बनाए और maintain किए। <strong>React (v19)</strong>, <strong>Next.js</strong>, <strong>Node.js</strong>, <strong>Python</strong>, <strong>Java</strong>, <strong>SwiftUI</strong> और RESTful APIs में skilled, साथ ही <strong>server-side rendering</strong>, <strong>WebSockets</strong> और <strong>accessibility</strong> best practices में मजबूत expertise।</p>
 
-<p><strong>मैं क्या लाता हूँ:</strong> मजबूत product sense · scalable React/TypeScript frontends · full-stack ownership · AI-native tooling</p>
+<p><strong>मैं क्या लाता हूँ:</strong> hands-on technical depth · business-oriented problem solving · clean code & UI/UX · AI-native product engineering</p>
 </div>
 
 <br/><br/>

@@ -38,16 +38,16 @@
 <h2 align="center"><b>💫 自己紹介</b></h2>
 
 <div>
-<p>こんにちは、<strong>Charlie Rios</strong> です — アムステルダム在住の <strong>Senior Full-Stack Software Engineer</strong> です。</p>
+<p>こんにちは、<strong>Charlie Rios</strong> です — <strong>9 年以上の経験</strong>を持つ <strong>ソフトウェアエンジニア</strong>で、<strong>アムステルダム</strong>在住です。</p>
 
 <p>
 <a href="https://linkedin.com/in/charlie-rios"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <img src="https://komarev.com/ghpvc/?username=xarlizard&label=%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E9%96%B2%E8%A6%A7%E6%95%B0&color=0e75b6&style=flat" alt="プロフィール閲覧数"/>
 </p>
 
-<p>UI アーキテクチャや design systems から API、インフラ、本番デプロイまで、プロダクトを end-to-end で構築しています。<strong>Frontend Lead</strong> としてフロントエンドチームを率い、<strong>Product Engineer</strong> として機能を担当し、web、mobile、cloud 向けにリリースしてきました。現在は <strong>native AI developer</strong> として成長中で、実際のユーザーに届くインテリジェントなシステムを構築しています。</p>
+<p>これまで <strong>フィンテック、e コマース、SaaS</strong> でモダンな <strong>Web・モバイル</strong> アプリの構築・運用に携わってきました。<strong>React (v19)</strong>、<strong>Next.js</strong>、<strong>Node.js</strong>、<strong>Python</strong>、<strong>Java</strong>、<strong>SwiftUI</strong>、RESTful API に精通し、<strong>サーバーサイドレンダリング</strong>、<strong>WebSockets</strong>、<strong>アクセシビリティ</strong> のベストプラクティスにも強みがあります。</p>
 
-<p><strong>提供できること：</strong> 強いプロダクトセンス · スケーラブルな React/TypeScript frontends · full-stack ownership · AI-native tooling</p>
+<p><strong>提供できること：</strong> 実践的な技術の深さ · ビジネス志向の問題解決 · クリーンなコードと UI/UX · AI-native プロダクトエンジニアリング</p>
 </div>
 
 <br/><br/>

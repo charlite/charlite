@@ -38,16 +38,16 @@
 <h2 align="center"><b>💫 Hakkımda</b></h2>
 
 <div>
-<p>Merhaba, ben <strong>Charlie Rios</strong> — Amsterdam'da yaşayan <strong>Kıdemli Full-Stack Yazılım Mühendisi</strong>.</p>
+<p>Merhaba, ben <strong>Charlie Rios</strong> — <strong>9 yılı aşkın deneyime</strong> sahip bir <strong>Yazılım Mühendisi</strong>, <strong>Amsterdam</strong>'da yaşıyorum.</p>
 
 <p>
 <a href="https://linkedin.com/in/charlie-rios"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <img src="https://komarev.com/ghpvc/?username=xarlizard&label=Profil%20g%C3%B6r%C3%BCnt%C3%BClemeleri&color=0e75b6&style=flat" alt="Profil görüntülemeleri"/>
 </p>
 
-<p>Ürünleri uçtan uca inşa ediyorum: UI mimarisi ve tasarım sistemlerinden API'lere, altyapıya ve production dağıtımlarına kadar. <strong>Frontend Lead</strong> olarak frontend ekiplerine liderlik ettim, <strong>Product Engineer</strong> olarak özelliklere sahip çıktım ve web, mobil ve bulutta yayınladım. Bugünlerde gerçek kullanıcılara ulaşan akıllı sistemler kuran bir <strong>native AI geliştiricisi</strong> olarak büyüyorum.</p>
+<p>Bu süreyi <strong>fintech, e-ticaret ve SaaS</strong> alanlarında modern <strong>web ve mobil</strong> uygulamalar geliştirmeye ve sürdürmeye ayırdım. <strong>React (v19)</strong>, <strong>Next.js</strong>, <strong>Node.js</strong>, <strong>Python</strong>, <strong>Java</strong>, <strong>SwiftUI</strong> ve RESTful API'lerde yetkinim; <strong>server-side rendering</strong>, <strong>WebSockets</strong> ve <strong>erişilebilirlik</strong> en iyi uygulamalarında güçlü bir uzmanlığa sahibim.</p>
 
-<p><strong>Getirdiklerim:</strong> güçlü ürün algısı · ölçeklenebilir React/TypeScript frontend'ler · full-stack sahiplenme · AI-native araçlar</p>
+<p><strong>Getirdiklerim:</strong> pratik teknik derinlik · iş odaklı problem çözme · temiz kod ve UI/UX · AI-native product engineering</p>
 </div>
 
 <br/><br/>
