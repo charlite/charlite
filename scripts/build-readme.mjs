@@ -179,17 +179,17 @@ function renderFeatured(t) {
 </p>
 <p>${t.dropafile_desc}</p>
 <p>
-<a href="https://dropafile.xarlizard.workers.dev/"><img src="${liveDemoBadge(t)}" alt="${t.live_demo_label}"/></a>
+<a href="https://dropafile.charlite.workers.dev/"><img src="${liveDemoBadge(t)}" alt="${t.live_demo_label}"/></a>
 <a href="https://github.com/dropafile/dropafile"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 </div>
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/xarlizard/email-signature-editor/main/.github/icon-cropped.png" width="200" alt="Email Signature Editor" align="left"/>
+<img src="https://raw.githubusercontent.com/charlite/email-signature-editor/main/.github/icon-cropped.png" width="200" alt="Email Signature Editor" align="left"/>
 
 <div>
-<h3><a href="https://github.com/xarlizard/email-signature-editor">Email Signature Editor</a></h3>
+<h3><a href="https://github.com/charlite/email-signature-editor">Email Signature Editor</a></h3>
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite"/>
@@ -200,7 +200,7 @@ function renderFeatured(t) {
 <p>${t.email_sig_desc}</p>
 <p>
 <a href="https://email-signature-editor.pages.dev/"><img src="${liveDemoBadge(t)}" alt="${t.live_demo_label}"/></a>
-<a href="https://github.com/xarlizard/email-signature-editor"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/charlite/email-signature-editor"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 </div>
 
@@ -246,7 +246,7 @@ function renderOss(t) {
 | [**lizard-ui**](https://www.npmjs.com/package/lizard-ui) | <a href="https://www.npmjs.com/package/lizard-ui"><img src="https://img.shields.io/npm/v/lizard-ui?style=flat-square&logo=npm" alt="npm"/></a> | ${t.lizard_ui_desc} |
 | [**responsive-panel**](https://www.npmjs.com/package/responsive-panel) | <a href="https://www.npmjs.com/package/responsive-panel"><img src="https://img.shields.io/npm/v/responsive-panel?style=flat-square&logo=npm" alt="npm"/></a> | ${t.responsive_panel_desc} |
 | [**react-api-forge**](https://www.npmjs.com/package/react-api-forge) | <a href="https://www.npmjs.com/package/react-api-forge"><img src="https://img.shields.io/npm/v/react-api-forge?style=flat-square&logo=npm" alt="npm"/></a> | ${t.react_api_forge_desc} |
-| [**react-temporal**](https://www.npmjs.com/package/@xarlizard/react-temporal) | <a href="https://www.npmjs.com/package/@xarlizard/react-temporal"><img src="https://img.shields.io/npm/v/@xarlizard/react-temporal?style=flat-square&logo=npm" alt="npm"/></a> | ${t.react_temporal_desc} |
+| [**react-temporal**](https://www.npmjs.com/package/@charlite/react-temporal) | <a href="https://www.npmjs.com/package/@charlite/react-temporal"><img src="https://img.shields.io/npm/v/@charlite/react-temporal?style=flat-square&logo=npm" alt="npm"/></a> | ${t.react_temporal_desc} |
 
 <br/><br/>
 `;
@@ -283,7 +283,7 @@ function buildLanguage(lang) {
     titledSection(t, 'github_trophies_title', path.join(sharedDir, 'trophies.html')),
     '<br/><br/>\n',
     donateSection(lang),
-    '\n<!-- Proudly created with GPRM ( https://gprm.itsvg.in ). Isometric contribution chart by https://github.com/colincode0/isonometric-github-contributions-chart (forked at xarlizard/isonometric-github-contributions-chart). -->\n',
+    '\n<!-- Proudly created with GPRM ( https://gprm.itsvg.in ). Isometric contribution chart by https://github.com/colincode0/isonometric-github-contributions-chart (forked at charlite/isonometric-github-contributions-chart). -->\n',
   ];
 
   return parts.join('\n');

@@ -123,17 +123,17 @@
 </p>
 <p><strong>파일을 드롭하세요. 모두가 실시간으로 받습니다.</strong> <strong>Cloudflare Workers</strong> 기반의 일시적 live-session 파일 공유 — 방을 만들고 링크나 QR 코드를 공유하면 연결된 피어가 실시간으로 다운로드합니다. 엣지에서 WebSocket 시그널링; 파일 바이트는 브라우저에서 P2P로 전송됩니다. 계정 없음, 영구 저장소 없음.</p>
 <p>
-<a href="https://dropafile.xarlizard.workers.dev/"><img src="https://img.shields.io/badge/%EB%9D%BC%EC%9D%B4%EB%B8%8C_%EB%8D%B0%EB%AA%A8-58A6FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMS45OSAyQzYuNDcgMiAyIDYuNDggMiAxMnM0LjQ3IDEwIDkuOTkgMTBDMTcuNTIgMjIgMjIgMTcuNTIgMjIgMTJTMTcuNTIgMiAxMS45OSAyem02LjkzIDZoLTIuOTVhMTUuNjUgMTUuNjUgMCAwIDAtMS4zOC0zLjU2QTguMDMgOC4wMyAwIDAgMSAxOC45MiA4ek0xMiA0LjA0Yy44MyAxLjIgMS40OCAyLjUzIDEuOTEgMy45NmgtMy44MmMuNDMtMS40MyAxLjA4LTIuNzYgMS45MS0zLjk2ek00LjI2IDE0QzQuMSAxMy4zNiA0IDEyLjY5IDQgMTJzLjEtMS4zNi4yNi0yaDMuMzhjLS4wOC42Ni0uMTQgMS4zMi0uMTQgMiAwIC42OC4wNiAxLjM0LjE0IDJINC4yNnptLjgyIDJoMi45NWMuMzIgMS4yNS43OCAyLjQ1IDEuMzggMy41NkE3Ljk4NyA3Ljk4NyAwIDAgMSA1LjA4IDE2em0yLjk1LThINS4wOGE3Ljk4NyA3Ljk4NyAwIDAgMSA0LjMzLTMuNTZBMTUuNjUgMTUuNjUgMCAwIDAgOC4wMyA4ek0xMiAxOS45NmMtLjgzLTEuMi0xLjQ4LTIuNTMtMS45MS0zLjk2aDMuODJjLS40MyAxLjQzLTEuMDggMi43Ni0xLjkxIDMuOTZ6TTE0LjM0IDE0SDkuNjZjLS4wOS0uNjYtLjE2LTEuMzItLjE2LTIgMC0uNjguMDctMS4zNS4xNi0yaDQuNjhjLjA5LjY1LjE2IDEuMzIuMTYgMiAwIC42OC0uMDcgMS4zNC0uMTYgMnptLjI1IDUuNTZjLjYtMS4xMSAxLjA2LTIuMzEgMS4zOC0zLjU2aDIuOTVhOC4wMyA4LjAzIDAgMCAxLTQuMzMgMy41NnpNMTYuMzYgMTRjLjA4LS42Ni4xNC0xLjMyLjE0LTIgMC0uNjgtLjA2LTEuMzQtLjE0LTJoMy4zOGMuMTYuNjQuMjYgMS4zMS4yNiAycy0uMSAxLjM2LS4yNiAyaC0zLjM4eiIvPjwvc3ZnPg==&logoColor=white" alt="라이브 데모"/></a>
+<a href="https://dropafile.charlite.workers.dev/"><img src="https://img.shields.io/badge/%EB%9D%BC%EC%9D%B4%EB%B8%8C_%EB%8D%B0%EB%AA%A8-58A6FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMS45OSAyQzYuNDcgMiAyIDYuNDggMiAxMnM0LjQ3IDEwIDkuOTkgMTBDMTcuNTIgMjIgMjIgMTcuNTIgMjIgMTJTMTcuNTIgMiAxMS45OSAyem02LjkzIDZoLTIuOTVhMTUuNjUgMTUuNjUgMCAwIDAtMS4zOC0zLjU2QTguMDMgOC4wMyAwIDAgMSAxOC45MiA4ek0xMiA0LjA0Yy44MyAxLjIgMS40OCAyLjUzIDEuOTEgMy45NmgtMy44MmMuNDMtMS40MyAxLjA4LTIuNzYgMS45MS0zLjk2ek00LjI2IDE0QzQuMSAxMy4zNiA0IDEyLjY5IDQgMTJzLjEtMS4zNi4yNi0yaDMuMzhjLS4wOC42Ni0uMTQgMS4zMi0uMTQgMiAwIC42OC4wNiAxLjM0LjE0IDJINC4yNnptLjgyIDJoMi45NWMuMzIgMS4yNS43OCAyLjQ1IDEuMzggMy41NkE3Ljk4NyA3Ljk4NyAwIDAgMSA1LjA4IDE2em0yLjk1LThINS4wOGE3Ljk4NyA3Ljk4NyAwIDAgMSA0LjMzLTMuNTZBMTUuNjUgMTUuNjUgMCAwIDAgOC4wMyA4ek0xMiAxOS45NmMtLjgzLTEuMi0xLjQ4LTIuNTMtMS45MS0zLjk2aDMuODJjLS40MyAxLjQzLTEuMDggMi43Ni0xLjkxIDMuOTZ6TTE0LjM0IDE0SDkuNjZjLS4wOS0uNjYtLjE2LTEuMzItLjE2LTIgMC0uNjguMDctMS4zNS4xNi0yaDQuNjhjLjA5LjY1LjE2IDEuMzIuMTYgMiAwIC42OC0uMDcgMS4zNC0uMTYgMnptLjI1IDUuNTZjLjYtMS4xMSAxLjA2LTIuMzEgMS4zOC0zLjU2aDIuOTVhOC4wMyA4LjAzIDAgMCAxLTQuMzMgMy41NnpNMTYuMzYgMTRjLjA4LS42Ni4xNC0xLjMyLjE0LTIgMC0uNjgtLjA2LTEuMzQtLjE0LTJoMy4zOGMuMTYuNjQuMjYgMS4zMS4yNiAycy0uMSAxLjM2LS4yNiAyaC0zLjM4eiIvPjwvc3ZnPg==&logoColor=white" alt="라이브 데모"/></a>
 <a href="https://github.com/dropafile/dropafile"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 </div>
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/xarlizard/email-signature-editor/main/.github/icon-cropped.png" width="200" alt="Email Signature Editor" align="left"/>
+<img src="https://raw.githubusercontent.com/charlite/email-signature-editor/main/.github/icon-cropped.png" width="200" alt="Email Signature Editor" align="left"/>
 
 <div>
-<h3><a href="https://github.com/xarlizard/email-signature-editor">Email Signature Editor</a></h3>
+<h3><a href="https://github.com/charlite/email-signature-editor">Email Signature Editor</a></h3>
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite"/>
@@ -144,7 +144,7 @@
 <p>가이드형 템플릿 흐름, 실시간 HTML 미리보기, <strong>Gmail</strong>에 원클릭 복사가 가능한 스키마 기반 이메일 서명 빌더입니다. <strong>LinkedIn</strong>에서 프로필을 가져와 필드를 미리 채운 뒤 비주얼 템플릿 편집기에서 맞춤 설정할 수 있습니다 — 저장된 서명 라이브러리, 필드별 스타일링, 다국어 지원이 포함됩니다.</p>
 <p>
 <a href="https://email-signature-editor.pages.dev/"><img src="https://img.shields.io/badge/%EB%9D%BC%EC%9D%B4%EB%B8%8C_%EB%8D%B0%EB%AA%A8-58A6FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMS45OSAyQzYuNDcgMiAyIDYuNDggMiAxMnM0LjQ3IDEwIDkuOTkgMTBDMTcuNTIgMjIgMjIgMTcuNTIgMjIgMTJTMTcuNTIgMiAxMS45OSAyem02LjkzIDZoLTIuOTVhMTUuNjUgMTUuNjUgMCAwIDAtMS4zOC0zLjU2QTguMDMgOC4wMyAwIDAgMSAxOC45MiA4ek0xMiA0LjA0Yy44MyAxLjIgMS40OCAyLjUzIDEuOTEgMy45NmgtMy44MmMuNDMtMS40MyAxLjA4LTIuNzYgMS45MS0zLjk2ek00LjI2IDE0QzQuMSAxMy4zNiA0IDEyLjY5IDQgMTJzLjEtMS4zNi4yNi0yaDMuMzhjLS4wOC42Ni0uMTQgMS4zMi0uMTQgMiAwIC42OC4wNiAxLjM0LjE0IDJINC4yNnptLjgyIDJoMi45NWMuMzIgMS4yNS43OCAyLjQ1IDEuMzggMy41NkE3Ljk4NyA3Ljk4NyAwIDAgMSA1LjA4IDE2em0yLjk1LThINS4wOGE3Ljk4NyA3Ljk4NyAwIDAgMSA0LjMzLTMuNTZBMTUuNjUgMTUuNjUgMCAwIDAgOC4wMyA4ek0xMiAxOS45NmMtLjgzLTEuMi0xLjQ4LTIuNTMtMS45MS0zLjk2aDMuODJjLS40MyAxLjQzLTEuMDggMi43Ni0xLjkxIDMuOTZ6TTE0LjM0IDE0SDkuNjZjLS4wOS0uNjYtLjE2LTEuMzItLjE2LTIgMC0uNjguMDctMS4zNS4xNi0yaDQuNjhjLjA5LjY1LjE2IDEuMzIuMTYgMiAwIC42OC0uMDcgMS4zNC0uMTYgMnptLjI1IDUuNTZjLjYtMS4xMSAxLjA2LTIuMzEgMS4zOC0zLjU2aDIuOTVhOC4wMyA4LjAzIDAgMCAxLTQuMzMgMy41NnpNMTYuMzYgMTRjLjA4LS42Ni4xNC0xLjMyLjE0LTIgMC0uNjgtLjA2LTEuMzQtLjE0LTJoMy4zOGMuMTYuNjQuMjYgMS4zMS4yNiAycy0uMSAxLjM2LS4yNiAyaC0zLjM4eiIvPjwvc3ZnPg==&logoColor=white" alt="라이브 데모"/></a>
-<a href="https://github.com/xarlizard/email-signature-editor"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/charlite/email-signature-editor"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 </div>
 
@@ -175,7 +175,7 @@
 | [**lizard-ui**](https://www.npmjs.com/package/lizard-ui) | <a href="https://www.npmjs.com/package/lizard-ui"><img src="https://img.shields.io/npm/v/lizard-ui?style=flat-square&logo=npm" alt="npm"/></a> | React 앱을 구축하기 위한 멀티 테마 UI 의존성 |
 | [**responsive-panel**](https://www.npmjs.com/package/responsive-panel) | <a href="https://www.npmjs.com/package/responsive-panel"><img src="https://img.shields.io/npm/v/responsive-panel?style=flat-square&logo=npm" alt="npm"/></a> | 반응형 브레이크포인트를 실시간으로 시각화하고 테스트하는 개발 도구 |
 | [**react-api-forge**](https://www.npmjs.com/package/react-api-forge) | <a href="https://www.npmjs.com/package/react-api-forge"><img src="https://img.shields.io/npm/v/react-api-forge?style=flat-square&logo=npm" alt="npm"/></a> | 로딩, 오류, 취소를 지원하는 API 호출용 타입 안전 React 훅 팩토리 |
-| [**react-temporal**](https://www.npmjs.com/package/@xarlizard/react-temporal) | <a href="https://www.npmjs.com/package/@xarlizard/react-temporal"><img src="https://img.shields.io/npm/v/@xarlizard/react-temporal?style=flat-square&logo=npm" alt="npm"/></a> | JavaScript **Temporal API**를 사용한 날짜 및 시간용 React 훅 |
+| [**react-temporal**](https://www.npmjs.com/package/@charlite/react-temporal) | <a href="https://www.npmjs.com/package/@charlite/react-temporal"><img src="https://img.shields.io/npm/v/@charlite/react-temporal?style=flat-square&logo=npm" alt="npm"/></a> | JavaScript **Temporal API**를 사용한 날짜 및 시간용 React 훅 |
 
 <br/><br/>
 
@@ -285,11 +285,11 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/xarlizard/isonometric-github-contributions-chart/main/output/contribs-dark.svg"
+    srcset="https://raw.githubusercontent.com/charlite/isonometric-github-contributions-chart/main/output/contribs-dark.svg"
   />
   <img
     alt="Isometric GitHub contribution chart"
-    src="https://raw.githubusercontent.com/xarlizard/isonometric-github-contributions-chart/main/output/contribs-light.svg"
+    src="https://raw.githubusercontent.com/charlite/isonometric-github-contributions-chart/main/output/contribs-light.svg"
   />
 </picture>
 
@@ -298,21 +298,21 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://streak-stats.demolab.com/?user=xarlizard&theme=dark&hide_border=false"
+    srcset="https://streak-stats.demolab.com/?user=charlite&theme=dark&hide_border=false"
   />
   <img
     alt="GitHub streak stats"
-    src="https://streak-stats.demolab.com/?user=xarlizard&theme=default&hide_border=false"
+    src="https://streak-stats.demolab.com/?user=charlite&theme=default&hide_border=false"
   />
 </picture>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=xarlizard&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+    srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=charlite&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
   />
   <img
     alt="GitHub top languages"
-    src="https://github-readme-stats.shion.dev/api/top-langs/?username=xarlizard&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=charlite&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
   />
 </picture>
 
@@ -322,11 +322,11 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-profile-trophy-gamma.vercel.app/?username=xarlizard&theme=dark&no-frame=false&no-bg=false&margin-w=4"
+    srcset="https://github-profile-trophy-gamma.vercel.app/?username=charlite&theme=dark&no-frame=false&no-bg=false&margin-w=4"
   />
   <img
     alt="GitHub profile trophies"
-    src="https://github-profile-trophy-gamma.vercel.app/?username=xarlizard&theme=default&no-frame=false&no-bg=false&margin-w=4"
+    src="https://github-profile-trophy-gamma.vercel.app/?username=charlite&theme=default&no-frame=false&no-bg=false&margin-w=4"
   />
 </picture>
 
@@ -334,8 +334,8 @@
 
 <h2 align="center"><b>💰 기부로 저를 도와주실 수 있습니다</b></h2>
 <div align="center">
-<a href="https://buymeacoffee.com/xarlizard"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/></a>
+<a href="https://buymeacoffee.com/charlite"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/></a>
 </div>
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ). Isometric contribution chart by https://github.com/colincode0/isonometric-github-contributions-chart (forked at xarlizard/isonometric-github-contributions-chart). -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ). Isometric contribution chart by https://github.com/colincode0/isonometric-github-contributions-chart (forked at charlite/isonometric-github-contributions-chart). -->
