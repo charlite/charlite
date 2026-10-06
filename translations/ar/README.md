@@ -45,16 +45,16 @@
 <img src="https://komarev.com/ghpvc/?username=xarlizard&label=%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A7%D8%AA%20%D8%A7%D9%84%D9%85%D9%84%D9%81%20%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A&color=0e75b6&style=flat" alt="مشاهدات الملف الشخصي"/>
 </p>
 
-<p>قضيت هذه السنوات في بناء وصيانة تطبيقات <strong>ويب وموبايل</strong> حديثة في <strong>التقنية المالية والتجارة الإلكترونية وSaaS</strong>. أتقن <strong>React (v19)</strong> و<strong>Next.js</strong> و<strong>Node.js</strong> و<strong>Python</strong> و<strong>Java</strong> و<strong>SwiftUI</strong> وRESTful APIs، مع خبرة قوية في <strong>server-side rendering</strong> و<strong>WebSockets</strong> وأفضل ممارسات <strong>إمكانية الوصول</strong>.</p>
+<p>أبني المنتجات end-to-end: من UI architecture و design systems إلى APIs والبنية التحتية ونشر الإنتاج. قدت فرق frontend كـ <strong>Frontend Lead</strong>، وامتلكت الميزات كـ <strong>Product Engineer</strong>، وأطلقت منتجات على web و mobile و cloud. اليوم أتطور كـ <strong>native AI developer</strong>، أبني أنظمة ذكية تصل إلى مستخدمين حقيقيين.</p>
 
-<p><strong>ما أقدمه:</strong> عمق تقني عملي · حل مشكلات موجه للأعمال · كود نظيف وUI/UX · هندسة منتجات AI-native</p>
+<p><strong>ما أقدمه:</strong> حس قوي بالمنتج · frontends React/TypeScript قابلة للتوسع · full-stack ownership · AI-native tooling</p>
 </div>
 
 <br/><br/>
 
 <h2 align="center"><b>🚀 مشاريع مميزة</b></h2>
 
-<img src="https://raw.githubusercontent.com/cook-gpt/cook-gpt/main/.github/icon-cropped.png" width="200" alt="CookGPT" align="left"/>
+<img src="https://raw.githubusercontent.com/cook-gpt/.github/main/.github/icon-cropped.png" width="200" alt="CookGPT" align="left"/>
 <a href="https://apps.apple.com/app/id6805535867"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83" width="175" alt="التنزيل من App Store" align="right"/></a>
 
 <div>
@@ -73,8 +73,8 @@
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/token-bar/token-bar/main/.github/icon-cropped.png" width="200" alt="Token Bar" align="left"/>
-<a href="https://github.com/token-bar/token-bar/releases"><img src="https://raw.githubusercontent.com/token-bar/token-bar/main/.github/macos_badge_noborder.png" width="175" alt="تنزيل لـ macOS" align="right"/></a>
+<img src="https://raw.githubusercontent.com/token-bar/.github/main/.github/icon-cropped.png" width="200" alt="Token Bar" align="left"/>
+<a href="https://github.com/token-bar/token-bar/releases"><img src="https://raw.githubusercontent.com/token-bar/.github/main/.github/macos_badge_noborder.png" width="175" alt="تنزيل لـ macOS" align="right"/></a>
 
 <div>
 <h3><a href="https://github.com/token-bar/token-bar">Token Bar</a></h3>
@@ -91,21 +91,20 @@
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/pocket-agent/pocket-agent/main/.github/icon-cropped.png" width="200" alt="Pocket Agent" align="left"/>
-<a href="https://github.com/pocket-agent/pocket-agent-desktop-app/releases"><img src="https://raw.githubusercontent.com/token-bar/token-bar/main/.github/macos_badge_noborder.png" width="175" alt="تنزيل لـ macOS" align="right"/></a>
+<img src="https://raw.githubusercontent.com/pocket-agent/.github/main/.github/icon-cropped.png" width="200" alt="Pocket Agent" align="left"/>
 
 <div>
 <h3><a href="https://github.com/pocket-agent/pocket-agent">Pocket Agent</a></h3>
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Swift-F54A2A?style=flat&logo=swift&logoColor=white" alt="Swift"/>
+<img src="https://img.shields.io/badge/SwiftUI-native-FA7343?style=flat&logo=swift&logoColor=white" alt="SwiftUI"/>
+<img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white" alt="iOS"/>
 <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white" alt="macOS"/>
 </p>
-<p>نظام بيئي مفتوح المصدر ل<strong>مساعد AI محلي</strong> من <a href="https://github.com/pocket-agent">@pocket-agent</a> — Python <strong>Pocket Node</strong> يشغّل توجيه LLM والأدوات والذاكرة وTelegram على جهازك؛ تطبيق macOS سطح مكتب يضم المكدس؛ API Cloudflare Worker وواجهة React للدردشة والمراقبة والإعدادات. عقود SDK مشتركة تربط كل المستودعات.</p>
+<p>مستودع monorepo يعمل دون اتصال أولاً من <a href="https://github.com/pocket-agent">@pocket-agent</a> — عميل دردشة أصلي على <strong>iOS</strong> يُقترن بعقدة وكيل على <strong>macOS</strong> (Telegram، أدوار، أدوات); تطبيقان Swift/Xcode يتشاركان bundle ID واحد، مع موقع تسويقي ومواصفات OKF مشتركة.</p>
 <p>
 <a href="https://pocket-agent.pages.dev/"><img src="https://img.shields.io/badge/%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D9%87%D8%A8%D9%88%D8%B7-58A6FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMS45OSAyQzYuNDcgMiAyIDYuNDggMiAxMnM0LjQ3IDEwIDkuOTkgMTBDMTcuNTIgMjIgMjIgMTcuNTIgMjIgMTJTMTcuNTIgMiAxMS45OSAyem02LjkzIDZoLTIuOTVhMTUuNjUgMTUuNjUgMCAwIDAtMS4zOC0zLjU2QTguMDMgOC4wMyAwIDAgMSAxOC45MiA4ek0xMiA0LjA0Yy44MyAxLjIgMS40OCAyLjUzIDEuOTEgMy45NmgtMy44MmMuNDMtMS40MyAxLjA4LTIuNzYgMS45MS0zLjk2ek00LjI2IDE0QzQuMSAxMy4zNiA0IDEyLjY5IDQgMTJzLjEtMS4zNi4yNi0yaDMuMzhjLS4wOC42Ni0uMTQgMS4zMi0uMTQgMiAwIC42OC4wNiAxLjM0LjE0IDJINC4yNnptLjgyIDJoMi45NWMuMzIgMS4yNS43OCAyLjQ1IDEuMzggMy41NkE3Ljk4NyA3Ljk4NyAwIDAgMSA1LjA4IDE2em0yLjk1LThINS4wOGE3Ljk4NyA3Ljk4NyAwIDAgMSA0LjMzLTMuNTZBMTUuNjUgMTUuNjUgMCAwIDAgOC4wMyA4ek0xMiAxOS45NmMtLjgzLTEuMi0xLjQ4LTIuNTMtMS45MS0zLjk2aDMuODJjLS40MyAxLjQzLTEuMDggMi43Ni0xLjkxIDMuOTZ6TTE0LjM0IDE0SDkuNjZjLS4wOS0uNjYtLjE2LTEuMzItLjE2LTIgMC0uNjguMDctMS4zNS4xNi0yaDQuNjhjLjA5LjY1LjE2IDEuMzIuMTYgMiAwIC42OC0uMDcgMS4zNC0uMTYgMnptLjI1IDUuNTZjLjYtMS4xMSAxLjA2LTIuMzEgMS4zOC0zLjU2aDIuOTVhOC4wMyA4LjAzIDAgMCAxLTQuMzMgMy41NnpNMTYuMzYgMTRjLjA4LS42Ni4xNC0xLjMyLjE0LTIgMC0uNjgtLjA2LTEuMzQtLjE0LTJoMy4zOGMuMTYuNjQuMjYgMS4zMS4yNiAycy0uMSAxLjM2LS4yNiAyaC0zLjM4eiIvPjwvc3ZnPg==&logoColor=white" alt="صفحة الهبوط"/></a>
-<a href="https://github.com/pocket-agent"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/pocket-agent/pocket-agent"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 </div>
 

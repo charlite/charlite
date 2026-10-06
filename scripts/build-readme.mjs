@@ -51,6 +51,13 @@ const WEB_GLOBE_ICON_B64 =
 
 const WEB_LINK_BADGE_COLOR = '58A6FF';
 
+/** Org meta-repo assets (not per-app repo `.github/` folders). */
+const ORG_GITHUB_ASSETS = {
+  cookGpt: 'https://raw.githubusercontent.com/cook-gpt/.github/main/.github',
+  tokenBar: 'https://raw.githubusercontent.com/token-bar/.github/main/.github',
+  pocketAgent: 'https://raw.githubusercontent.com/pocket-agent/.github/main/.github',
+};
+
 function webLinkBadge(label) {
   const encoded = encodeURIComponent(label).replace(/%20/g, '_');
   return `https://img.shields.io/badge/${encoded}-${WEB_LINK_BADGE_COLOR}?style=for-the-badge&logo=data:image/svg+xml;base64,${WEB_GLOBE_ICON_B64}&logoColor=white`;
@@ -110,7 +117,7 @@ function renderAbout(t) {
 function renderFeatured(t) {
   return `<h2 align="center"><b>${t.featured_title}</b></h2>
 
-<img src="https://raw.githubusercontent.com/cook-gpt/cook-gpt/main/.github/icon-cropped.png" width="200" alt="CookGPT" align="left"/>
+<img src="${ORG_GITHUB_ASSETS.cookGpt}/icon-cropped.png" width="200" alt="CookGPT" align="left"/>
 <a href="https://apps.apple.com/app/id6805535867"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83" width="175" alt="${t.download_ios_alt}" align="right"/></a>
 
 <div>
@@ -129,8 +136,8 @@ function renderFeatured(t) {
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/token-bar/token-bar/main/.github/icon-cropped.png" width="200" alt="Token Bar" align="left"/>
-<a href="https://github.com/token-bar/token-bar/releases"><img src="https://raw.githubusercontent.com/token-bar/token-bar/main/.github/macos_badge_noborder.png" width="175" alt="${t.download_mac_alt}" align="right"/></a>
+<img src="${ORG_GITHUB_ASSETS.tokenBar}/icon-cropped.png" width="200" alt="Token Bar" align="left"/>
+<a href="https://github.com/token-bar/token-bar/releases"><img src="${ORG_GITHUB_ASSETS.tokenBar}/macos_badge_noborder.png" width="175" alt="${t.download_mac_alt}" align="right"/></a>
 
 <div>
 <h3><a href="https://github.com/token-bar/token-bar">Token Bar</a></h3>
@@ -147,21 +154,20 @@ function renderFeatured(t) {
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/pocket-agent/pocket-agent/main/.github/icon-cropped.png" width="200" alt="Pocket Agent" align="left"/>
-<a href="https://github.com/pocket-agent/pocket-agent-desktop-app/releases"><img src="https://raw.githubusercontent.com/token-bar/token-bar/main/.github/macos_badge_noborder.png" width="175" alt="${t.download_mac_alt}" align="right"/></a>
+<img src="${ORG_GITHUB_ASSETS.pocketAgent}/icon-cropped.png" width="200" alt="Pocket Agent" align="left"/>
 
 <div>
 <h3><a href="https://github.com/pocket-agent/pocket-agent">Pocket Agent</a></h3>
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Swift-F54A2A?style=flat&logo=swift&logoColor=white" alt="Swift"/>
+<img src="https://img.shields.io/badge/SwiftUI-native-FA7343?style=flat&logo=swift&logoColor=white" alt="SwiftUI"/>
+<img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white" alt="iOS"/>
 <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white" alt="macOS"/>
 </p>
 <p>${t.pocket_agent_desc}</p>
 <p>
 <a href="https://pocket-agent.pages.dev/"><img src="${landingPageBadge(t)}" alt="${t.landing_page_label}"/></a>
-<a href="https://github.com/pocket-agent"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/pocket-agent/pocket-agent"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 </div>
 

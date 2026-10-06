@@ -45,16 +45,16 @@
 <img src="https://komarev.com/ghpvc/?username=xarlizard&label=%D0%9F%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D1%8B%20%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8F&color=0e75b6&style=flat" alt="Просмотры профиля"/>
 </p>
 
-<p>Это время я посвятил созданию и поддержке современных <strong>web- и mobile</strong>-приложений в <strong>fintech, e-commerce и SaaS</strong>. Владею <strong>React (v19)</strong>, <strong>Next.js</strong>, <strong>Node.js</strong>, <strong>Python</strong>, <strong>Java</strong>, <strong>SwiftUI</strong> и RESTful API, с сильной экспертизой в <strong>server-side rendering</strong>, <strong>WebSockets</strong> и лучших практиках <strong>доступности</strong>.</p>
+<p>Создаю продукты end-to-end: от UI-архитектуры и design systems до API, инфраструктуры и продакшен-деплоев. Руководил frontend-командами как <strong>Frontend Lead</strong>, отвечал за фичи как <strong>Product Engineer</strong> и выпускал решения для web, mobile и cloud. Сейчас развиваюсь как <strong>native AI developer</strong>, создавая интеллектуальные системы для реальных пользователей.</p>
 
-<p><strong>Что я привношу:</strong> практическая техническая глубина · решение задач с фокусом на бизнес · чистый код и UI/UX · AI-native product engineering</p>
+<p><strong>Что я привношу:</strong> сильное продуктовое мышление · масштабируемые React/TypeScript frontends · full-stack ownership · AI-native tooling</p>
 </div>
 
 <br/><br/>
 
 <h2 align="center"><b>🚀 Избранные проекты</b></h2>
 
-<img src="https://raw.githubusercontent.com/cook-gpt/cook-gpt/main/.github/icon-cropped.png" width="200" alt="CookGPT" align="left"/>
+<img src="https://raw.githubusercontent.com/cook-gpt/.github/main/.github/icon-cropped.png" width="200" alt="CookGPT" align="left"/>
 <a href="https://apps.apple.com/app/id6805535867"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83" width="175" alt="Загрузить в App Store" align="right"/></a>
 
 <div>
@@ -73,8 +73,8 @@
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/token-bar/token-bar/main/.github/icon-cropped.png" width="200" alt="Token Bar" align="left"/>
-<a href="https://github.com/token-bar/token-bar/releases"><img src="https://raw.githubusercontent.com/token-bar/token-bar/main/.github/macos_badge_noborder.png" width="175" alt="Скачать для macOS" align="right"/></a>
+<img src="https://raw.githubusercontent.com/token-bar/.github/main/.github/icon-cropped.png" width="200" alt="Token Bar" align="left"/>
+<a href="https://github.com/token-bar/token-bar/releases"><img src="https://raw.githubusercontent.com/token-bar/.github/main/.github/macos_badge_noborder.png" width="175" alt="Скачать для macOS" align="right"/></a>
 
 <div>
 <h3><a href="https://github.com/token-bar/token-bar">Token Bar</a></h3>
@@ -91,21 +91,20 @@
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/pocket-agent/pocket-agent/main/.github/icon-cropped.png" width="200" alt="Pocket Agent" align="left"/>
-<a href="https://github.com/pocket-agent/pocket-agent-desktop-app/releases"><img src="https://raw.githubusercontent.com/token-bar/token-bar/main/.github/macos_badge_noborder.png" width="175" alt="Скачать для macOS" align="right"/></a>
+<img src="https://raw.githubusercontent.com/pocket-agent/.github/main/.github/icon-cropped.png" width="200" alt="Pocket Agent" align="left"/>
 
 <div>
 <h3><a href="https://github.com/pocket-agent/pocket-agent">Pocket Agent</a></h3>
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Swift-F54A2A?style=flat&logo=swift&logoColor=white" alt="Swift"/>
+<img src="https://img.shields.io/badge/SwiftUI-native-FA7343?style=flat&logo=swift&logoColor=white" alt="SwiftUI"/>
+<img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white" alt="iOS"/>
 <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white" alt="macOS"/>
 </p>
-<p>Open-source экосистема <strong>локального AI-ассистента</strong> от <a href="https://github.com/pocket-agent">@pocket-agent</a> — Python <strong>Pocket Node</strong> запускает LLM-маршрутизацию, tools, память и Telegram на вашей машине; macOS desktop app упаковывает стек; Cloudflare Worker API и React web UI для чата, монитора и настроек. Общие SDK-контракты связывают все репозитории.</p>
+<p>Offline-first монорепозиторий от <a href="https://github.com/pocket-agent">@pocket-agent</a> — нативный чат-клиент для <strong>iOS</strong> работает в паре с агент-нодой на <strong>macOS</strong> (Telegram, роли, tools); оба приложения Swift/Xcode с одним bundle ID, общий маркетинговый сайт и спецификации OKF.</p>
 <p>
 <a href="https://pocket-agent.pages.dev/"><img src="https://img.shields.io/badge/%D0%9B%D0%B5%D0%BD%D0%B4%D0%B8%D0%BD%D0%B3-58A6FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMS45OSAyQzYuNDcgMiAyIDYuNDggMiAxMnM0LjQ3IDEwIDkuOTkgMTBDMTcuNTIgMjIgMjIgMTcuNTIgMjIgMTJTMTcuNTIgMiAxMS45OSAyem02LjkzIDZoLTIuOTVhMTUuNjUgMTUuNjUgMCAwIDAtMS4zOC0zLjU2QTguMDMgOC4wMyAwIDAgMSAxOC45MiA4ek0xMiA0LjA0Yy44MyAxLjIgMS40OCAyLjUzIDEuOTEgMy45NmgtMy44MmMuNDMtMS40MyAxLjA4LTIuNzYgMS45MS0zLjk2ek00LjI2IDE0QzQuMSAxMy4zNiA0IDEyLjY5IDQgMTJzLjEtMS4zNi4yNi0yaDMuMzhjLS4wOC42Ni0uMTQgMS4zMi0uMTQgMiAwIC42OC4wNiAxLjM0LjE0IDJINC4yNnptLjgyIDJoMi45NWMuMzIgMS4yNS43OCAyLjQ1IDEuMzggMy41NkE3Ljk4NyA3Ljk4NyAwIDAgMSA1LjA4IDE2em0yLjk1LThINS4wOGE3Ljk4NyA3Ljk4NyAwIDAgMSA0LjMzLTMuNTZBMTUuNjUgMTUuNjUgMCAwIDAgOC4wMyA4ek0xMiAxOS45NmMtLjgzLTEuMi0xLjQ4LTIuNTMtMS45MS0zLjk2aDMuODJjLS40MyAxLjQzLTEuMDggMi43Ni0xLjkxIDMuOTZ6TTE0LjM0IDE0SDkuNjZjLS4wOS0uNjYtLjE2LTEuMzItLjE2LTIgMC0uNjguMDctMS4zNS4xNi0yaDQuNjhjLjA5LjY1LjE2IDEuMzIuMTYgMiAwIC42OC0uMDcgMS4zNC0uMTYgMnptLjI1IDUuNTZjLjYtMS4xMSAxLjA2LTIuMzEgMS4zOC0zLjU2aDIuOTVhOC4wMyA4LjAzIDAgMCAxLTQuMzMgMy41NnpNMTYuMzYgMTRjLjA4LS42Ni4xNC0xLjMyLjE0LTIgMC0uNjgtLjA2LTEuMzQtLjE0LTJoMy4zOGMuMTYuNjQuMjYgMS4zMS4yNiAycy0uMSAxLjM2LS4yNiAyaC0zLjM4eiIvPjwvc3ZnPg==&logoColor=white" alt="Лендинг"/></a>
-<a href="https://github.com/pocket-agent"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/pocket-agent/pocket-agent"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 </div>
 

@@ -45,16 +45,16 @@
 <img src="https://komarev.com/ghpvc/?username=xarlizard&label=%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E6%B5%8F%E8%A7%88%E9%87%8F&color=0e75b6&style=flat" alt="个人资料浏览量"/>
 </p>
 
-<p>这些年我专注于构建和维护现代化的 <strong>Web 与移动</strong> 应用，覆盖 <strong>金融科技、电商与 SaaS</strong>。熟悉 <strong>React (v19)</strong>、<strong>Next.js</strong>、<strong>Node.js</strong>、<strong>Python</strong>、<strong>Java</strong>、<strong>SwiftUI</strong> 与 RESTful API，并在 <strong>服务端渲染</strong>、<strong>WebSockets</strong> 与 <strong>无障碍</strong> 最佳实践方面经验丰富。</p>
+<p>我端到端构建产品：从 UI 架构和 design systems 到 API、基础设施和生产部署。我曾以 <strong>Frontend Lead</strong> 身份带领前端团队，以 <strong>Product Engineer</strong> 负责功能交付，并在 web、mobile 和 cloud 上发布产品。如今我正成长为 <strong>native AI developer</strong>，构建面向真实用户的智能系统。</p>
 
-<p><strong>我能带来的：</strong> 扎实的技术深度 · 面向业务的解决问题能力 · 整洁代码与 UI/UX · AI-native 产品工程</p>
+<p><strong>我能带来的：</strong> 敏锐的产品感 · 可扩展的 React/TypeScript frontends · full-stack ownership · AI-native tooling</p>
 </div>
 
 <br/><br/>
 
 <h2 align="center"><b>🚀 精选项目</b></h2>
 
-<img src="https://raw.githubusercontent.com/cook-gpt/cook-gpt/main/.github/icon-cropped.png" width="200" alt="CookGPT" align="left"/>
+<img src="https://raw.githubusercontent.com/cook-gpt/.github/main/.github/icon-cropped.png" width="200" alt="CookGPT" align="left"/>
 <a href="https://apps.apple.com/app/id6805535867"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83" width="175" alt="在 App Store 下载" align="right"/></a>
 
 <div>
@@ -73,8 +73,8 @@
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/token-bar/token-bar/main/.github/icon-cropped.png" width="200" alt="Token Bar" align="left"/>
-<a href="https://github.com/token-bar/token-bar/releases"><img src="https://raw.githubusercontent.com/token-bar/token-bar/main/.github/macos_badge_noborder.png" width="175" alt="下载 macOS 版" align="right"/></a>
+<img src="https://raw.githubusercontent.com/token-bar/.github/main/.github/icon-cropped.png" width="200" alt="Token Bar" align="left"/>
+<a href="https://github.com/token-bar/token-bar/releases"><img src="https://raw.githubusercontent.com/token-bar/.github/main/.github/macos_badge_noborder.png" width="175" alt="下载 macOS 版" align="right"/></a>
 
 <div>
 <h3><a href="https://github.com/token-bar/token-bar">Token Bar</a></h3>
@@ -91,21 +91,20 @@
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/pocket-agent/pocket-agent/main/.github/icon-cropped.png" width="200" alt="Pocket Agent" align="left"/>
-<a href="https://github.com/pocket-agent/pocket-agent-desktop-app/releases"><img src="https://raw.githubusercontent.com/token-bar/token-bar/main/.github/macos_badge_noborder.png" width="175" alt="下载 macOS 版" align="right"/></a>
+<img src="https://raw.githubusercontent.com/pocket-agent/.github/main/.github/icon-cropped.png" width="200" alt="Pocket Agent" align="left"/>
 
 <div>
 <h3><a href="https://github.com/pocket-agent/pocket-agent">Pocket Agent</a></h3>
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Swift-F54A2A?style=flat&logo=swift&logoColor=white" alt="Swift"/>
+<img src="https://img.shields.io/badge/SwiftUI-native-FA7343?style=flat&logo=swift&logoColor=white" alt="SwiftUI"/>
+<img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white" alt="iOS"/>
 <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white" alt="macOS"/>
 </p>
-<p>来自 <a href="https://github.com/pocket-agent">@pocket-agent</a> 的开源<strong>本地 AI 助手</strong>生态 — Python <strong>Pocket Node</strong> 在你的机器上运行 LLM 路由、tools、memory 和 Telegram；macOS 桌面应用打包整个技术栈；Cloudflare Worker API 与 React Web UI 处理聊天、监控和设置。共享 SDK 契约串联所有仓库。</p>
+<p>来自 <a href="https://github.com/pocket-agent">@pocket-agent</a> 的离线优先单体仓库 — 原生 <strong>iOS</strong> 聊天客户端与 <strong>macOS</strong> 代理节点（Telegram、角色、工具）配对；两个 Swift/Xcode 应用共享同一 bundle ID，并配有共享营销站点与 OKF 规范。</p>
 <p>
 <a href="https://pocket-agent.pages.dev/"><img src="https://img.shields.io/badge/%E8%90%BD%E5%9C%B0%E9%A1%B5-58A6FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMS45OSAyQzYuNDcgMiAyIDYuNDggMiAxMnM0LjQ3IDEwIDkuOTkgMTBDMTcuNTIgMjIgMjIgMTcuNTIgMjIgMTJTMTcuNTIgMiAxMS45OSAyem02LjkzIDZoLTIuOTVhMTUuNjUgMTUuNjUgMCAwIDAtMS4zOC0zLjU2QTguMDMgOC4wMyAwIDAgMSAxOC45MiA4ek0xMiA0LjA0Yy44MyAxLjIgMS40OCAyLjUzIDEuOTEgMy45NmgtMy44MmMuNDMtMS40MyAxLjA4LTIuNzYgMS45MS0zLjk2ek00LjI2IDE0QzQuMSAxMy4zNiA0IDEyLjY5IDQgMTJzLjEtMS4zNi4yNi0yaDMuMzhjLS4wOC42Ni0uMTQgMS4zMi0uMTQgMiAwIC42OC4wNiAxLjM0LjE0IDJINC4yNnptLjgyIDJoMi45NWMuMzIgMS4yNS43OCAyLjQ1IDEuMzggMy41NkE3Ljk4NyA3Ljk4NyAwIDAgMSA1LjA4IDE2em0yLjk1LThINS4wOGE3Ljk4NyA3Ljk4NyAwIDAgMSA0LjMzLTMuNTZBMTUuNjUgMTUuNjUgMCAwIDAgOC4wMyA4ek0xMiAxOS45NmMtLjgzLTEuMi0xLjQ4LTIuNTMtMS45MS0zLjk2aDMuODJjLS40MyAxLjQzLTEuMDggMi43Ni0xLjkxIDMuOTZ6TTE0LjM0IDE0SDkuNjZjLS4wOS0uNjYtLjE2LTEuMzItLjE2LTIgMC0uNjguMDctMS4zNS4xNi0yaDQuNjhjLjA5LjY1LjE2IDEuMzIuMTYgMiAwIC42OC0uMDcgMS4zNC0uMTYgMnptLjI1IDUuNTZjLjYtMS4xMSAxLjA2LTIuMzEgMS4zOC0zLjU2aDIuOTVhOC4wMyA4LjAzIDAgMCAxLTQuMzMgMy41NnpNMTYuMzYgMTRjLjA4LS42Ni4xNC0xLjMyLjE0LTIgMC0uNjgtLjA2LTEuMzQtLjE0LTJoMy4zOGMuMTYuNjQuMjYgMS4zMS4yNiAycy0uMSAxLjM2LS4yNiAyaC0zLjM4eiIvPjwvc3ZnPg==&logoColor=white" alt="落地页"/></a>
-<a href="https://github.com/pocket-agent"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/pocket-agent/pocket-agent"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 </div>
 
